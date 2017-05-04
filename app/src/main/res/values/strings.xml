@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+
+    <!-- Category name for About -->
+    <string name="category_about">Massive Attack: About</string>
+
+    <!-- Category name for Albums -->
+    <string name="category_albums">Albums</string>
+
+    <!-- Category name for Songs -->
+    <string name="category_songs">Songs</string>
+
+    <!-- Category name for Store -->
+    <string name="category_store">Store</string>
+
+    <!-- Category name for Main view -->
+    <string name="category_main">Back to Main</string>
+
+    <!-- Explaining the About Activity -->
+    <string name="about_text">Listen to 4 tracks from each of Massive Attack\'s studio albums.
+                              \nNavigate to Albums or Songs and have a listen. Explicit intent.
+                              \nClick on Store to purchase an album you\'ve liked. Implicit intent.</string>
+
+    <!-- Explaining the Albums Activity -->
+    <string name="albums_text">Click on an album cover for track listing.
+                               \nFour tracks in each album will have the Play and Pause option next to them.
+                               \nGo to Songs for all Album listings and Play options.Explicit intent to be used. </string>
+
+    <!-- Explaining the Songs Activity -->
+    <string name="songs_text">Songs with a Play and Pause option are open for a free of charge user experience. Explicit intent.
+                              \nGo to Store and purchase an album you have enjoyed.</string>
+
+    <!-- Explaining the Store Activity -->
+    <string name="store_text">Select the checkbox next to the Album or Albums you would like to purchase.
+                              \nYou can pay with PayPayl, Credit or Debit card. Implicit intents to be used.</string>
+</resources>

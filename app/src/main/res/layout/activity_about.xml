@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.user.musicalstructureapp.About"
+    style="@style/Scroll_view">
+
+    <LinearLayout
+    style="@style/Linear_Layout_Main">
+
+    <TextView
+        android:id="@+id/about"
+        android:text="@string/about_text"
+        style="@style/CategoryStyle" />
+
+    <TextView
+        android:id="@+id/albums"
+        android:text="@string/category_albums"
+        style="@style/CategoryStyle" />
+
+    <TextView
+        android:id="@+id/songs"
+        android:text="@string/category_songs"
+        style="@style/CategoryStyle" />
+
+    <TextView
+        android:id="@+id/store"
+        android:text="@string/category_store"
+        style="@style/CategoryStyle" />
+
+        <TextView
+            android:id="@+id/back_to_main"
+            android:text="@string/category_main"
+            style="@style/CategoryStyle" />
+
+    </LinearLayout>
+
+</ScrollView>
